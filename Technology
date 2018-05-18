@@ -1,1 +1,8 @@
+Web服务器技术：Nginx
+缓存技术：Redis
+非关系型数据库：MongoDB
+网络开发技术：Netty
 
+中间件技术：
+1. JMS:activeMQ和kafka
+2. RPC: Dubbo
